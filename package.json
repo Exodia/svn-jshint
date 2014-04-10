@@ -1,0 +1,24 @@
+{
+    "name": "svn-jshint",
+    "version": "0.0.0",
+    "bin": "./bin/svn-jshint",
+    "description": "jshint svn diff",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "jshint",
+        "svn"
+    ],
+    "author": "exodia",
+    "license": "BSD-2-Clause",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Exodia/svn-jshint.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Exodia/svn-jshint/issues"
+    },
+    "homepage": "https://github.com/Exodia/svn-jshint"
+}
